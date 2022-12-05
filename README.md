@@ -1,2 +1,1 @@
-# SQLProject
-Covid Data Exploration and analysis
+#Covid Data Exploration and analysis
